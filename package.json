@@ -1,0 +1,22 @@
+{
+  "name": "teamdirect04july2021",
+  "version": "1.0.0",
+  "description": "AS A manager\r I WANT to generate a webpage that displays my team's basic info\r SO THAT I have quick access to their emails and GitHub profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshleyTh/TeamDirect04July2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshleyTh/TeamDirect04July2021/issues"
+  },
+  "homepage": "https://github.com/AshleyTh/TeamDirect04July2021#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
